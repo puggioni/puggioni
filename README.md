@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Agustin!  👋
+![Agustin Puggioni](https://user-images.githubusercontent.com/82182900/187035686-5cdc60fa-73e1-469d-b40d-5591a358006f.png)
 <!--
 **puggioni/puggioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
