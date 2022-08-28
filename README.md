@@ -6,13 +6,13 @@
 
 ---
 
-### About me
+### About me 👽
 
 I am a web development student, I love to code and build functional projects from scratch to 100% functional. I am also a Certified Accountant graduated from the Universidad Nacional de Rosario
 I am currently very motivated with my career as a web developer, I love learning and applying new technologies in my projects.
 I am passionate about any type of sport or video game, animals and cooking
 
-### Technologies
+### Technologies 👨‍💻
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
@@ -25,7 +25,7 @@ I am passionate about any type of sport or video game, animals and cooking
 
 ---
 
-### Social media
+### Social media 📺
 
 [![Twitter](https://img.shields.io/badge/Twitter-@agupuggioni08-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/agupuggioni08)
 [![Instagram](https://img.shields.io/badge/Instagram-@agu.puggioni-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/agu.puggioni)
