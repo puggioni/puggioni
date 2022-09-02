@@ -2,7 +2,8 @@
 
 ### Fullstack Web developer
 
-![Agustin Puggioni](https://user-images.githubusercontent.com/82182900/187035686-5cdc60fa-73e1-469d-b40d-5591a358006f.png)
+![Agustin Puggioni (1)](https://user-images.githubusercontent.com/82182900/188062711-675a076c-18b9-4667-81ad-5fd7c35873e8.png)
+
 
 ---
 
